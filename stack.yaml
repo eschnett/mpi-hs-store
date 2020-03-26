@@ -5,3 +5,6 @@ resolver: lts-15.5
 # User packages to be built.
 packages:
   - .
+
+extra-deps:
+  - store-0.7.2@sha256:94ca07b2af0ee15ee9e71f1576ea630676c3c016788c3dcb19d33d2998c3c228,7825
