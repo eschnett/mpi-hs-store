@@ -7,7 +7,8 @@ packages:
   - .
 
 extra-deps:
-  - mpi-hs-0.6.0.0@sha256:fa9271ea7121942ffa7869648c8c6fe6f08159a845fe05af6d667b4da251d489,8833
+  - git: https://github.com/eschnett/mpi-hs
+    commit: 9c77e539bd6145474cb7a5ee84ce80af5d34321b
   - store-0.7.2@sha256:94ca07b2af0ee15ee9e71f1576ea630676c3c016788c3dcb19d33d2998c3c228,7825
   - store-core-0.4.4.2@sha256:11403cad88cf4f3675d49baf76cb5dd56363e786c7e25ef00fa57296af29a7b2,1444
   - th-utilities-0.2.3.1@sha256:40ebb0bc9569b4ff5c3be93c58a1e2a35e308a7e3effc73f6b324980f53f73fc,1869
