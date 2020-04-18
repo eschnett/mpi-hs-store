@@ -25,16 +25,9 @@ packages:
       sha256: fa8f7a729bb497831a087af6368cc44a52bfdf058c54882a6f5513feb4d36212
   original:
     hackage: th-utilities-0.2.3.1@sha256:40ebb0bc9569b4ff5c3be93c58a1e2a35e308a7e3effc73f6b324980f53f73fc,1869
-- completed:
-    hackage: mpi-hs-0.6.0.0@sha256:fa9271ea7121942ffa7869648c8c6fe6f08159a845fe05af6d667b4da251d489,8833
-    pantry-tree:
-      size: 796
-      sha256: f6f147089dd4eaa382df6f089a2f552cc939233215391ece6334d6f487bb0e08
-  original:
-    hackage: mpi-hs-0.6.0.0@sha256:fa9271ea7121942ffa7869648c8c6fe6f08159a845fe05af6d667b4da251d489,8833
 snapshots:
 - completed:
-    size: 491372
-    url: https://raw.githubusercontent.com/commercialhaskell/stackage-snapshots/master/lts/15/5.yaml
-    sha256: 1b549cfff328040c382a70a84a2087aac8dab6d778bf92f32a93a771a1980dfc
-  original: lts-15.5
+    size: 513207
+    url: https://raw.githubusercontent.com/commercialhaskell/stackage-snapshots/master/nightly/2020/4/18.yaml
+    sha256: 4a5cabc1856fdcb16da22374500213ccb850d608eadbe8130ff66de4614a66ff
+  original: nightly-2020-04-18

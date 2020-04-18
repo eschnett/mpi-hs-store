@@ -52,7 +52,7 @@ library:
     - store
     - bytestring
     - monad-loops
-    - mpi-hs >=0.6.0.0
+    - mpi-hs >=0.7.0.0
   source-dirs: lib
 
 executables:
